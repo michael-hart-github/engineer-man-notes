@@ -9,3 +9,5 @@ https://www.youtube.com/channel/UCrUL8K81R4VBzm-KOYwrcxQ
 https://www.youtube.com/watch?v=EbIhQGMk91g
 Uploaded 10 JAN 2021
 
+## Notes
+Notes_Advice-for-a-younger-me.md
